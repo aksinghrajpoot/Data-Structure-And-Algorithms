@@ -2,3 +2,4 @@
 
 - [Reverse Words in a String III](reverse-words-in-a-string-iii.py)
 - [Reverse String](reverse-string.py)
+- [Middle of the Linked List](middle-of-the-linked-list.py)
