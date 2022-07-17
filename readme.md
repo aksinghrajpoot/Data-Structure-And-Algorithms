@@ -5,3 +5,4 @@
 - [Middle of the Linked List](middle-of-the-linked-list.py)
 - [Longest Substring Without Repeating Characters](longest-substring-without-repeating-characters.py)
 - [Longest Palindromic Substring](longest-palindromic-substring.py)
+- [Find Missing Number](find-missing-number.py)
